@@ -17,9 +17,9 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.krisflo.com/2016/06/05/hello-world/"/>
-    <id>http://www.krisflo.com/2016/06/05/hello-world/</id>
-    <published>2016-06-06T06:23:08.977Z</published>
+    <link href="http://www.krisflo.com/2016/06/06/hello-world/"/>
+    <id>http://www.krisflo.com/2016/06/06/hello-world/</id>
+    <published>2016-06-06T07:02:00.205Z</published>
     <updated>2016-06-06T06:19:29.000Z</updated>
     
     <content type="html">&lt;p&gt;Welcome to my blog.&lt;/p&gt;
@@ -39,7 +39,7 @@
     <title>This is a test</title>
     <link href="http://www.krisflo.com/2016/06/05/This-is-a-test/"/>
     <id>http://www.krisflo.com/2016/06/05/This-is-a-test/</id>
-    <published>2016-06-05T21:42:40.000Z</published>
+    <published>2016-06-06T04:42:40.000Z</published>
     <updated>2016-06-06T06:10:52.000Z</updated>
     
     <content type="html">&lt;p&gt;Hello everyone. Test&lt;/p&gt;
